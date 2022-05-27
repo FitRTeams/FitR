@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# FitR demo
+FitR demo new project template.

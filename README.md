@@ -14,3 +14,7 @@ Download FitRzip. Unzip and use cocos creator 2.0.5 to open and run directly
 
 Android native code needs to contact the administrator for permission
 
+# Smart contracts
+
+* `FitrCollectibleToken.sol` is a smart contract of the main collectible token in the project.
+* The ERC-721 token calls a `VRFConsumerBaseV2` contract in `@chainlink/contracts` to generate random genes for the collectible.

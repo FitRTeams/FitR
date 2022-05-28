@@ -1,0 +1,23 @@
+{
+  "name": "fitr",
+  "version": "1.0.0",
+  "description": "FitR is a web3 fitness game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FitRTeams/FitR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FitRTeams/FitR/issues"
+  },
+  "homepage": "https://github.com/FitRTeams/FitR#readme",
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.1",
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
